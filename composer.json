@@ -1,0 +1,16 @@
+{
+    "name": "magmamedia/random-string-generator",
+    "description": "generate a random string",
+    "license": "Apache License Version 2.0",
+    "authors": [
+        {
+            "name": "Billy Mahmood",
+            "email": "billy124@msn.com"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Magmamedia\\StringZone" : "src"
+        }
+    }
+}

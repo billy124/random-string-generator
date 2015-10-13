@@ -1,6 +1,6 @@
 <?php
 
-namespace magmamedia;
+namespace Magmamedia\StringZone;
 
 class RandomStringGenerator {
     const CHARACTERS = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
