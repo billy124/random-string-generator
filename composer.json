@@ -5,6 +5,7 @@
     "keywords": ["string"],
     "homepage": "https://github.com/billy124/random-string-generator",
     "license": "Apache License Version 2.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Billy Mahmood",
